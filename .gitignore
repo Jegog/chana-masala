@@ -1,0 +1,19 @@
+#Other datafolders
+brand_db
+sp500
+old
+.ipynb_checkpoints
+
+
+﻿# DVCで管理するデータの実体
+chana-masala/data/
+
+# 機密情報（GCS認証情報）
+credentials/
+
+# DVCのキャッシュディレクトリ（Gitで追跡しない）
+dvc-cache/
+
+# DVCによって生成されるロックファイル
+# DVCのセットアップによっては追跡対象にすることもありますが、一般的には除外
+dvc.lock
