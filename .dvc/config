@@ -1,0 +1,7 @@
+[cache]
+    dir = D:\Data\dvc-cache\chana-masala
+    type = copy
+[core]
+    remote = gcsremote
+['remote "gcsremote"']
+    url = gs://dvc-data-repo/chana-masala
