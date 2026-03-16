@@ -194,7 +194,7 @@ D:\Data\
 ├─ dvc-cache\
 │  └─ chana-masala\
 └─ credentials\
-   └─ my-ip-project-425607-2b1b451f2fa8.json
+   └─ my-ip-project-xxxxx-xxxxxxxxxx.json
 
 # セットアップ時の要点
 ・Git の repo ルートは D:\Data\chana-masala
