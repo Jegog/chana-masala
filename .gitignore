@@ -6,6 +6,7 @@ old/
 
 
 ﻿# DVCで管理するデータの実体
+data/
 
 # 機密情報（GCS認証情報）
 credentials/
